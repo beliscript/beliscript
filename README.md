@@ -17,7 +17,6 @@ const Jul = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Golang, PHP, Java],
   tools: [Jetbrains, React, Laravel, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   challenge:  [
               "I am doing the #100DaysOfCode challenge focused on react and typescript", 
               "I am doing a 1 day challenge at least 10 pages"
